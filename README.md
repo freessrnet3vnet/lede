@@ -1,4 +1,4 @@
-这是2023年2月18日从coolsnowwolf/lede克隆的代码，由于newwifi3 d2共享有问题，所以 将samba36从4.0.26-9变为3.6.25-15版
+# 这是2023年2月18日从coolsnowwolf/lede克隆的代码，由于newwifi3 d2共享有问题，所以 将samba36从4.0.26-9变为3.6.25-15版
 
 
 # 欢迎来到 Lean 的 LEDE 源码仓库
